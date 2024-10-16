@@ -1,0 +1,6 @@
+[2m2024-10-16T12:05:13.155843Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'alacritty'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-16T12:05:33.933526Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'alacritty'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-16T15:04:58.117540Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '3' doesn't exist or is already active.
+[2m2024-10-16T15:05:03.052321Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '2' doesn't exist or is already active.
+[2m2024-10-16T15:05:08.857169Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '3' doesn't exist or is already active.
+[2m2024-10-16T15:06:41.695482Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '4' doesn't exist or is already active.
