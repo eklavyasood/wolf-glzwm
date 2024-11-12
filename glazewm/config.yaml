@@ -238,11 +238,11 @@ keybindings:
   - commands: ['shell-exec wt']
     bindings: ['alt+enter']
 
-  # Focus the next/previous workspace defined in `workspaces` config.
-  - commands: ['focus --next-workspace']
-    bindings: ['alt+shift+s']
-  - commands: ['focus --prev-workspace']
-    bindings: ['alt+shift+a']
+  # # Focus the next/previous workspace defined in `workspaces` config.
+  # - commands: ['focus --next-workspace']
+  #   bindings: ['alt+shift+s']
+  # - commands: ['focus --prev-workspace']
+  #   bindings: ['alt+shift+a']
 
   # Focus the workspace that last had focus.
   - commands: ['focus --recent-workspace']
